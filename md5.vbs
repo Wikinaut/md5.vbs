@@ -359,5 +359,3 @@ End Function
 
 ' Test
  WScript.Echo MD5("Test")
- 
- 
